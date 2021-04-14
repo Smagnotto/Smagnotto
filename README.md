@@ -22,8 +22,6 @@ I was born in São Paulo, currently I am a tech-lead engineer at Grupo SBF. I st
 
 ----
 
-----
-
 ### Stacks :computer:
 
 <a href="https://reactjs.org/">
@@ -53,8 +51,6 @@ I was born in São Paulo, currently I am a tech-lead engineer at Grupo SBF. I st
 
 ----
 
-----
-
 ### Let's connect :electric_plug:
 <a href="https://github.com/smagnotto">
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/>
@@ -62,8 +58,6 @@ I was born in São Paulo, currently I am a tech-lead engineer at Grupo SBF. I st
 <a href="https://www.linkedin.com/in/smagnotto">
   <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />
 </a> 
-
-----
 
 ----
 
