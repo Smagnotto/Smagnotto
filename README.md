@@ -12,7 +12,7 @@
 Hi, I'm Diego Saraiva, a passionate self-taught Full Stack software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-  <img align="right" alt="GIF" src="asserts/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="asserts/code.gif?raw=true" width="480" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/smagnotto);
@@ -34,16 +34,13 @@ Hi, I'm Diego Saraiva, a passionate self-taught Full Stack software engineer fro
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt="MongoDB" /></code>
 
 📈 My GitHub Stats
-
-<p align="center">
-   <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=smagnotto&layout=compact&theme=tokyonight"
-    />
-  <br />
-  <img   
-      align="center"
-      height="165" 
-       src="https://github-readme-stats.vercel.app/api?username=smagnotto&show_icons=true&theme=tokyonight"
-    />
-</p>
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=smagnotto&layout=compact&theme=tokyonight"
+/>
+<br />
+<br />
+<img align="center"
+  height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=smagnotto&show_icons=true&theme=tokyonight"
+/>
