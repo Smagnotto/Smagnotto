@@ -1,24 +1,10 @@
-<!--### Hi there 👋
+# Hi Fellow Devs :wave:
 
-
-**Smagnotto/Smagnotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Welcome to my profile 👋
-
-### My name is Diego Saraiva.
-I was born in São Paulo, currently I am a tech-lead engineer at Grupo SBF. I started my carrear about 11 years ago.
+<p align="center">
+  <samp>
+    I'm Diego Saraiva, I was born in São Paulo, currently I am a tech-lead engineer at Grupo SBF. I started my carrear about 11 years ago.
+  </samp>  
+</p>
 
 ----
 
@@ -47,6 +33,18 @@ I was born in São Paulo, currently I am a tech-lead engineer at Grupo SBF. I st
 </a>
 <a href="http://angular.io/">
   <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" alt="Angular"/>
+</a>
+<a href="https://www.python.org/">
+  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" />
+</a>
+<a href="https://www.java.com/pt-BR/">
+  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" />
+</a>
+<a href="https://pt.wikipedia.org/wiki/SQL">
+  <img height="32" src="https://cdn4.iconfinder.com/data/icons/grey-file-format/512/Artboard_11-512.png" alt="SQL" />
+</a>
+<a href="http://www.mongodb.com/">
+  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt="MongoDB" />
 </a>
 
 ----
