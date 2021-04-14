@@ -34,9 +34,20 @@ Hi, I'm Diego Saraiva, a passionate self-taught Full Stack software engineer fro
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt="MongoDB" /></code>
 
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->
+
+<!-- TODO-IST:END -->
+
+
 📈 My GitHub Stats
-<br />
-<br />
+
 <p align="center">
    <img
       align="center"
