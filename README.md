@@ -4,7 +4,7 @@
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/smagnotto">
-  <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />
+  <img alt="My linkedin" width="28" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />
 </a> 
 
 <br />
