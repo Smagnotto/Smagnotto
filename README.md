@@ -13,7 +13,7 @@ Hi, I'm Diego Saraiva, a passionate self-taught Full Stack software engineer fro
 
 I am currently working as a tech lead. My goal is to lead transparently, always engaging and motivating the team, focusing on high quality deliveries.
 
-<img align="right" alt="GIF" src="asserts/code.gif?raw=true" width="480" height="320" />
+   <img align="right" alt="GIF" src="asserts/code.gif?raw=true" width="480" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/smagnotto);
