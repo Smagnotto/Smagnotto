@@ -9,10 +9,11 @@
 
 <br />
 
-Hi, I'm Diego Saraiva, a passionate self-taught Full Stack software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Diego Saraiva, a passionate self-taught Full Stack software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
 
+I am currently working as a tech lead. My goal is to lead transparently, always engaging and motivating the team, focusing on high quality deliveries.
 
-  <img align="right" alt="GIF" src="asserts/code.gif?raw=true" width="480" height="320" />
+<img align="right" alt="GIF" src="asserts/code.gif?raw=true" width="480" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/smagnotto);
